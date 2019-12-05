@@ -2,9 +2,10 @@
 <jcr:root xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0"
     jcr:primaryType="cq:Template">
     <jcr:content
-        cq:lastModified="{Date}2018-10-09T17:21:39.072-04:00"
+        cq:lastModified="{Date}2019-12-04T10:14:04.355Z"
         cq:lastModifiedBy="admin"
+        cq:templateType="/libs/settings/wcm/template-types/afpage"
         jcr:primaryType="cq:PageContent"
-        jcr:title="WKND Event React App"
+        jcr:title="react"
         status="enabled"/>
 </jcr:root>

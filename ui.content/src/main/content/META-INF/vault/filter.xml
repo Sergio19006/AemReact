@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <workspaceFilter version="1.0">
     <filter root="/conf/wknd-events"/>
+    <filter root="/content/conf" mode="merge"/>
     <filter root="/content/wknd-events" mode="merge"/>
     <filter root="/content/dam/wknd-events" mode="merge"/>
+    <filter root="/conf/wknd-event/settings/wcm/templates"/>
+    <filter root="/conf/wknd-event/settings/wcm/policies"/>
+    <filter root="/conf/wknd-event/settings/wcm/template-types"/>
+    <filter root="/wknd-event/campaigns/wknd-event"/>
 </workspaceFilter>

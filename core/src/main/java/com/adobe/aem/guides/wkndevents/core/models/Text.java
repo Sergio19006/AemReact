@@ -20,7 +20,7 @@ import com.adobe.cq.export.json.ComponentExporter;
 )
 public class Text implements ComponentExporter {
 
-    private static final String PREPEND_MSG = "Que pasaaa locoooooooo";
+    private static final String PREPEND_MSG = "la";
     static final String RESOURCE_TYPE = "wknd-events/components/content/text";
 
     @ValueMapValue
